@@ -36,6 +36,9 @@ Server will run on `http://localhost:3000`
 | POST | /api/transfers | โอนเงิน/เหรียญ (ภายในระบบ/ออกนอกระบบ) |
 
 ## API Examples
+* Postman example
+  <img width="1362" height="865" alt="image" src="https://github.com/user-attachments/assets/34267306-4aab-4861-bc88-6d7c7284b293" />
+
 
 ### 1. สร้าง User
 ```http
