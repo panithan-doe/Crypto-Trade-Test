@@ -11,7 +11,7 @@ Draw.io Link: https://drive.google.com/file/d/11b49f1BYJMOuYe9xutpNmwP9_NbzmjzW/
 ```bash
 # 1. Clone repository
 git clone https://github.com/panithan-doe/Crypto-Trade-Test.git
-cd crypto-test
+cd Crypto-Trade-Test
 
 # 2. Install dependencies
 npm install
