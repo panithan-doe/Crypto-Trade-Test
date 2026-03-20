@@ -3,6 +3,8 @@
 ## ER Diagram
 <img width="907" height="710" alt="image" src="https://github.com/user-attachments/assets/e668a090-e83a-4067-a573-8d4b37e03da7" />
 
+Draw.io Link: https://drive.google.com/file/d/11b49f1BYJMOuYe9xutpNmwP9_NbzmjzW/view?usp=sharing
+
 
 ## Installation
 
