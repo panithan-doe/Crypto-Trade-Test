@@ -102,6 +102,10 @@ Content-Type: application/json
 }
 ```
 
+## การเช็ค Data
+* VSCode: SQLite Viewer extension
+
+
 ## Seed Data
 
 ระบบมี seed data สำหรับทดสอบ:
